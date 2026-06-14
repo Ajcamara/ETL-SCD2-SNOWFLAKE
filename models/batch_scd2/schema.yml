@@ -14,6 +14,12 @@ models:
 
  
 
+    - name: product_snapshot
+
+      description: "dbt model to create the product snapshot table"
+
+ 
+
 sources:
 
     - name: product
