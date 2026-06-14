@@ -1,0 +1,1 @@
+{{ snapshot_product_snapshot() }}
